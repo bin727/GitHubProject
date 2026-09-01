@@ -1,1 +1,1 @@
-FongMi https://github.com/FongMi/Release/releases
+FongMi:https://github.com/FongMi/Release/releases
